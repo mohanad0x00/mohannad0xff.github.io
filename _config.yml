@@ -97,19 +97,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :"mohannad0xff"
+  github           : "mohannad0xff"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :"mouhandhassan" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "mouhandhassan" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :"Mohannad_Hassan"
+  twitter          : "Mohannad_Hassan"
   vine             :
   weibo            :
   xing             :
