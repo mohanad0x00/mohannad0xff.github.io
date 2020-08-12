@@ -1,4 +1,4 @@
 layout: archive
-permalink: /Blog/
-title: Blog
+permalink: /blog/
+title: "Blog"
 author_profile: true

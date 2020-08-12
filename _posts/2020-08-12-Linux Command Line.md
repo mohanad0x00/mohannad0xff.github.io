@@ -1,4 +1,4 @@
-title: "About"
+title: "Linux Command Line"
 date: 2020-08-12
 tags: [linux, bash, terminal]
 header:
