@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blog About Security"
+title                    : "Blog About Security and Computing"
 title_separator          : "-"
 name                     : "Mohannad Hassan"
 description              : "security,linux,network,cryptography"
